@@ -30,3 +30,13 @@ video {
 .stopfade {
    opacity: .5;
 }
+
+h1 {
+  font-family: 'Franklin Gothic', sans-serif;
+  color: #FFF;
+  text-transform: uppercase;
+  letter-spacing: 3vw;
+  line-height: 1.2;
+  font-size: 3vw;
+  text-align: center;
+}
