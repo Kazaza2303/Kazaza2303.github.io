@@ -30,12 +30,3 @@ video {
 .stopfade {
    opacity: .5;
 }
-
-
-h1 {
-  color:#FFF;
-  font-size: 3rem;
-  text-transform: uppercase;
-  margin-top: 0;
-  letter-spacing: .3rem;
-}
